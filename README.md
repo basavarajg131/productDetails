@@ -1,17 +1,14 @@
-
-
-
-
-
-
-
-
 Selenium_java_project
+
 Problem Statement:
 To print the name as well as the price of the product(Titan wrist watch ) by applying few filters:
+
 Display- Analogue
+
 Brand Material- Leather,
+
 Brands-Titan
+
 Discounts- 25% or more:
 
 Files and software required:
